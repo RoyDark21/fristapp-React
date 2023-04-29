@@ -1,0 +1,57 @@
+.contenedor-tripulante{
+  width: 1000px;
+  height: auto;
+  margin: 20px 20px 20px;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(192, 39, 39, 0.5);
+  box-shadow: 0 3px 13px 1px rgb(0 0 0 / 10%);
+  color: rgb(243, 242, 166);
+}
+
+.imagen-tripulante {
+  height: auto;
+  width: 500px;
+  float: left;
+  margin: 15px 15px; 
+}
+
+.contenedor-tripulante-mugy {
+  padding: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: justify;
+  font-weight: 200;
+  line-height: 1.3rem;
+}
+
+.nombre-tripulante {
+  font-size: 1.9rem;
+  text-align: center;
+}
+
+.fruta-tripulante{
+  font-size: 1.2rem;
+}
+
+.rol-tripulante {
+  font-size: 1.3rem;
+  margin-top: 5px;
+}
+
+.historia-tripulante {
+  font-size: 1.2rem;
+  text-align: justify;
+  
+}
+
+.poderes-titulo {
+  text-align: center;
+  font-size: 1.9rem;
+  font-weight: 1000;
+
+}
+
+ul {
+  padding: 20px;
+  font-size: 1.3rem;
+}
